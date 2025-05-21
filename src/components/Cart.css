@@ -1,6 +1,3 @@
-<<<<<<< ours
-/* Temporary empty styles to fix Jest import error */
-=======
 .cart {
     background-color: #ffffff;
     border-radius: 4px;
@@ -41,4 +38,3 @@
     align-items: center;
     justify-content: space-between;
 }
->>>>>>> theirs
